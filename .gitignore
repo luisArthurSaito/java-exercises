@@ -1,0 +1,61 @@
+# ========================
+#  Eclipse
+# ========================
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+*.launch
+*.lock
+*.lock_info
+*.log
+local.properties
+
+# ========================
+#  Build / Compilação
+# ========================
+bin/
+out/
+build/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ========================
+#  Sistemas Operacionais
+# ========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ========================
+#  IDEs diversas
+# ========================
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VSCode
+.vscode/
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+nb-configuration.xml
